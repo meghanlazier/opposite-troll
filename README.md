@@ -1,6 +1,8 @@
 # opposite-troll
 What’s the Opposite of a Troll? is a collaborative project to attempt to name, recognize and celebrate the behavior online that’s at the opposite end of the spectrum of how a troll behaves.
 
+<img width="352" alt="logo" src="https://s3.amazonaws.com/media.guidebook.com/upload/114124/FE8g28oLsEcD6vm59W0Qm0uAXMMxVyaONZNb.png">
+
 Thank you for your interest in learning more about the Opposite of a Troll Project. 
 
 # Our Project
