@@ -12,7 +12,7 @@ Please check out our README for an overview if you haven't read it yet!
 Milestone: Content Creation
 When people arrive at our project site, we need to be able to explain what we’re doing. This milestone will be complete when all the content is written and posted online.
 Writing the FAQs
-Writing the Contribute page
+Edit the Contribute page
 Writing the submission form
 
 Milestone: Website Launch
