@@ -4,7 +4,7 @@ Thank you for your interest in contributing to What's the Opposite of a Troll! :
 
 What’s the Opposite of a Troll? is a collaborative project to attempt to name, recognize and celebrate the behavior online that’s at the opposite end of the spectrum of how a troll behaves.
 
-This documents is a set of guidelines for contributing to our project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+This document is a set of guidelines for contributing to our project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 
 # Participation guidelines
