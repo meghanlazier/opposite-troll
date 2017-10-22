@@ -13,11 +13,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 # What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
-
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+Have you seen our [roadmap](roadmap.md)? We've listed our milestones and next steps in the document. You can also browse our issues. We've tagged issues that are especially easy for new contributors. 
 
 # How to submit changes
 
