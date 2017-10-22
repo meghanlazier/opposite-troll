@@ -19,7 +19,7 @@ This project started as an idea for a submission for an interactive gallery at M
 
 # Contributing
 
-Thanks for your interest in contributing to What's the Opposite of a Troll? Want to join us? Get started by subscribing to our email list <a href="http://eepurl.com/c5RPcj"></a> for project updates. We’ll update you as soon as it’s possible to submit and curate.
+Thanks for your interest in contributing to What's the Opposite of a Troll? Want to join us? Get started by subscribing to our email list <a href="http://eepurl.com/c5RPcj">email list</a> for project updates. We’ll update you as soon as it’s possible to submit and curate.
 
 We’re always looking for help with front and backend development, content creation and potential partnerships.
 
@@ -31,7 +31,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 # MozFest
 
-Join us at the [Mozilla Festival](http://mozillafestival.org/) October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session [link to your session] and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
+Join us at the [Mozilla Festival](http://mozillafestival.org/) October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about <a href="https://guidebook.com/guide/114124/event/16741576/">our session</a> and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
 
 <img width="352" alt="mozilla-festival_lockup-black" src="https://user-images.githubusercontent.com/617994/31743944-cedd2278-b411-11e7-9229-b5ce5ce5588b.png">
 
