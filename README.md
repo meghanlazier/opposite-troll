@@ -19,7 +19,7 @@ This project started as an idea for a submission for an interactive gallery at M
 
 # Contributing
 
-Thanks for your interest in contributing to What's the Opposite of a Troll? Want to join us? Get started by subscribing to our email list <a href="http://eepurl.com/c5RPcj"> for project updates. We’ll update you as soon as it’s possible to submit and curate.
+Thanks for your interest in contributing to What's the Opposite of a Troll? Want to join us? Get started by subscribing to our email list <a href="http://eepurl.com/c5RPcj"></a> for project updates. We’ll update you as soon as it’s possible to submit and curate.
 
 We’re always looking for help with front and backend development, content creation and potential partnerships.
 
